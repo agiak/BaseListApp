@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BaseListApp</string>
+
+    <!-- Navigation labels -->
+    <string name="nav_label_product">Product</string>
+    <string name="nav_label_products">Products</string>
+
+    <!-- Activity Labels -->
+    <string name="activity_label_main">MainActivity</string>
+    <string name="products_screen_title">Products</string>
+</resources>

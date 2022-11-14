@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="general_margin_horizontal">16dp</dimen>
+    <dimen name="general_margin_vertical">24dp</dimen>
+    <dimen name="back_button_size">24dp</dimen>
+</resources>

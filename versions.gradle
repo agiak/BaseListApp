@@ -1,0 +1,47 @@
+ext {
+
+    gradleToolsVersion = '7.1.3'
+    kotlinVersion = '1.7.0'
+    hiltGradlePluginVersion = '2.38.1'
+    navigationGraphGradlePluginVersion = '2.4.2'
+    googleMapsSettingsPlugin = '2.0.1'
+
+    // Java and compile versions
+    javaVersion = JavaVersion.VERSION_11
+    kotlinTarget =  "11"
+
+    coreKTXVersion = '1.9.0'
+    appCompatVersion = '1.5.1'
+
+    coroutinesVersion = '1.6.1'
+
+    // UI components
+    materialVersion = '1.6.1'
+    recyclerViewVersion = '1.2.1'
+    constraintLayoutVersion = '2.1.4'
+
+    // Lifecycle Components
+    lifecycleVersion = '2.5.1'
+
+    // Navigation
+    navigationVersion = '2.5.2'
+
+    // Networking
+    retrofitVersion = '2.9.0'
+    okHttp3Logging = '5.0.0-alpha.2'
+
+    // Dependency Injection - Hilt
+    hiltVersion = '2.42'
+
+    // DataBase - Room
+    roomVersion = "2.4.3"
+
+    // Legacy
+    androidXLegacyVersion = '1.0.0'
+
+    // Image loading
+    glideVersion = '4.13.1'
+
+    // Splash API
+    splashVersion = '1.0.0-alpha02'
+}
